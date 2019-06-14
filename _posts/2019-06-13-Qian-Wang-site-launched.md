@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qian Wang, Msc candidate, Launches Site"
+title: "Qian Wang, Launches Site"
 date: 2019-06-13
 ---
 
